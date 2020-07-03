@@ -12,10 +12,10 @@
 
 #### Example usage:
 
-- https://timestamp-api-orara.glitch.me/api/timestamp/
-- https://timestamp-api-orara.glitch.me/api/timestamp/2015-12-25
-- https://timestamp-api-orara.glitch.me/api/timestamp/1451001600000
+- [**[project url]/api/timestamp/**](https://timestamp-api-orara.glitch.me/api/timestamp/)
+- [**[project url]/api/timestamp/2020-07-01**](https://timestamp-api-orara.glitch.me/api/timestamp/2020-07-01)
+- [**[project url]/api/timestamp/1593746173079**](https://timestamp-api-orara.glitch.me/api/timestamp/1593746173079)
 
 #### Example output:
 
-- {"unix":1451001600000, "utc":"Fri, 25 Dec 2015 00:00:00 GMT"}
+- {"unix":1593746173079,"utc":"Fri, 03 Jul 2020 03:16:13 GMT"}
